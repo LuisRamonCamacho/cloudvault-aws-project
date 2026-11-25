@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+infra/estado_infra.json
+.env
